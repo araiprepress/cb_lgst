@@ -20,7 +20,7 @@ st.title("📖 StreamlitChatMessageHistory & langchain_agent")
 
 """
 comment here.
-[source code for this app]( URL ).
+[source code for this app]( https://github.com/araiprepress/cb_lgst ).
 """
 
 #  openai api keys ===========
